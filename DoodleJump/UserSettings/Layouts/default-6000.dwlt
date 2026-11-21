@@ -477,7 +477,7 @@ MonoBehaviour:
   m_Zoom: -1
   m_ScrollPosition: {x: 0, y: 0}
   m_SelectedObject: {fileID: 0}
-  m_SelectedSpriteRectGUID: 5e97eb03825dee720800000000000000
+  m_SelectedSpriteRectGUID: 00000000000000000000000000000000
   m_PreviousLockTrackerState: 0
   m_LastUsedModuleTypeName: UnityEditor.U2D.Sprites.SpriteFrameModule
 --- !u!114 &15
@@ -502,7 +502,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 43
+    y: 0
     width: 1920
     height: 36
   m_SerializedDataModeController:
@@ -782,7 +782,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 737
+    y: 682
     width: 1465
     height: 249
   m_SerializedDataModeController:
@@ -833,9 +833,7 @@ MonoBehaviour:
       m_Data: 56810
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 56428
-    - m_Data: 56808
-    - m_Data: 1000000000
+    - m_Data: 50760
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -866,7 +864,9 @@ MonoBehaviour:
     m_SelectedIDs: []
     m_LastClickedID:
       m_Data: 0
-    m_ExpandedIDs: []
+    m_ExpandedIDs:
+    - m_Data: 0
+    - m_Data: 50760
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -958,8 +958,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1466
-    y: 79
+    x: 1467
+    y: 24
     width: 453
     height: 907
   m_SerializedDataModeController:
@@ -1010,7 +1010,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79
+    y: 24
     width: 362
     height: 632
   m_SerializedDataModeController:
@@ -1080,8 +1080,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 363
-    y: 79
+    x: 364
+    y: 24
     width: 1101
     height: 632
   m_SerializedDataModeController:
@@ -1572,7 +1572,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -4.0284615, y: -0.044629335, z: 0.026936755}
     speed: 2
-    m_Value: {x: -4.547152, y: 0.10535352, z: 0.023493964}
+    m_Value: {x: -4.0284615, y: -0.044629335, z: 0.026936755}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1624,7 +1624,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 7.306359
     speed: 2
-    m_Value: 7.6506376
+    m_Value: 7.306359
   m_Ortho:
     m_Target: 1
     speed: 2
